@@ -1,4 +1,4 @@
-## overview
+## Overview 🪶
 This project is a simple Tic-Tac-Toe game implemented in Python using the Tkinter library for the graphical user interface (GUI). The game allows two players to play against each other on a 3x3 grid, with Player 1 using "X" and Player 2 using "O".
 
 The application features:
